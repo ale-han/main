@@ -1,436 +1,68 @@
-Contribution: 2020-09-19 20:00
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Contribution: 2020-10-03 20:00
+## Available Scripts
 
-Contribution: 2020-10-03 20:01
+In the project directory, you can run:
 
-Contribution: 2020-10-03 20:02
+### `npm start`
 
-Contribution: 2020-10-03 20:03
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Contribution: 2020-10-06 20:00
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
 
-Contribution: 2020-10-06 20:01
+### `npm test`
 
-Contribution: 2020-10-06 20:02
+Launches the test runner in the interactive watch mode.<br>
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Contribution: 2020-10-26 20:00
+### `npm run build`
 
-Contribution: 2020-10-26 20:01
+Builds the app for production to the `build` folder.<br>
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Contribution: 2020-10-26 20:02
+The build is minified and the filenames include the hashes.<br>
+Your app is ready to be deployed!
 
-Contribution: 2020-10-26 20:03
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Contribution: 2020-10-26 20:04
+### `npm run eject`
 
-Contribution: 2020-10-26 20:05
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Contribution: 2020-10-26 20:06
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Contribution: 2020-10-26 20:07
+Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Contribution: 2020-10-26 20:08
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-Contribution: 2020-11-12 20:00
+## Learn More
 
-Contribution: 2020-11-12 20:01
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Contribution: 2020-11-12 20:02
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-Contribution: 2020-11-12 20:03
+### Code Splitting
 
-Contribution: 2020-11-12 20:04
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-Contribution: 2020-11-12 20:05
+### Analyzing the Bundle Size
 
-Contribution: 2020-11-12 20:06
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-Contribution: 2020-11-12 20:07
+### Making a Progressive Web App
 
-Contribution: 2020-11-12 20:08
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-Contribution: 2020-11-12 20:09
+### Advanced Configuration
 
-Contribution: 2020-11-17 20:00
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-Contribution: 2020-11-17 20:01
+### Deployment
 
-Contribution: 2020-11-17 20:02
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-Contribution: 2020-11-17 20:03
+### `npm run build` fails to minify
 
-Contribution: 2020-12-01 20:00
-
-Contribution: 2020-12-01 20:01
-
-Contribution: 2020-12-01 20:02
-
-Contribution: 2020-12-01 20:03
-
-Contribution: 2020-12-01 20:04
-
-Contribution: 2020-12-04 20:00
-
-Contribution: 2020-12-04 20:01
-
-Contribution: 2020-12-04 20:02
-
-Contribution: 2020-12-08 20:00
-
-Contribution: 2020-12-08 20:01
-
-Contribution: 2020-12-08 20:02
-
-Contribution: 2020-12-08 20:03
-
-Contribution: 2020-12-08 20:04
-
-Contribution: 2020-12-08 20:05
-
-Contribution: 2020-12-08 20:06
-
-Contribution: 2020-12-09 20:00
-
-Contribution: 2020-12-09 20:01
-
-Contribution: 2020-12-09 20:02
-
-Contribution: 2020-12-09 20:03
-
-Contribution: 2020-12-09 20:04
-
-Contribution: 2020-12-09 20:05
-
-Contribution: 2020-12-13 20:00
-
-Contribution: 2020-12-13 20:01
-
-Contribution: 2020-12-14 20:00
-
-Contribution: 2020-12-14 20:01
-
-Contribution: 2020-12-14 20:02
-
-Contribution: 2020-12-14 20:03
-
-Contribution: 2020-12-14 20:04
-
-Contribution: 2020-12-19 20:00
-
-Contribution: 2020-12-19 20:01
-
-Contribution: 2021-01-22 20:00
-
-Contribution: 2021-01-22 20:01
-
-Contribution: 2021-01-29 20:00
-
-Contribution: 2021-01-29 20:01
-
-Contribution: 2021-01-29 20:02
-
-Contribution: 2021-01-29 20:03
-
-Contribution: 2021-01-29 20:04
-
-Contribution: 2021-01-29 20:05
-
-Contribution: 2021-01-29 20:06
-
-Contribution: 2021-02-04 20:00
-
-Contribution: 2021-02-04 20:01
-
-Contribution: 2021-02-04 20:02
-
-Contribution: 2021-02-04 20:03
-
-Contribution: 2021-02-16 20:00
-
-Contribution: 2021-02-16 20:01
-
-Contribution: 2021-02-16 20:02
-
-Contribution: 2021-02-20 20:00
-
-Contribution: 2021-02-20 20:01
-
-Contribution: 2021-02-20 20:02
-
-Contribution: 2021-02-20 20:03
-
-Contribution: 2021-02-20 20:04
-
-Contribution: 2021-02-20 20:05
-
-Contribution: 2021-02-24 20:00
-
-Contribution: 2021-02-26 20:00
-
-Contribution: 2021-02-26 20:01
-
-Contribution: 2021-02-26 20:02
-
-Contribution: 2021-02-26 20:03
-
-Contribution: 2021-02-26 20:04
-
-Contribution: 2021-02-26 20:05
-
-Contribution: 2021-02-26 20:06
-
-Contribution: 2021-02-26 20:07
-
-Contribution: 2021-02-28 20:00
-
-Contribution: 2021-02-28 20:01
-
-Contribution: 2021-02-28 20:02
-
-Contribution: 2021-02-28 20:03
-
-Contribution: 2021-02-28 20:04
-
-Contribution: 2021-02-28 20:05
-
-Contribution: 2021-03-05 20:00
-
-Contribution: 2021-03-05 20:01
-
-Contribution: 2021-03-05 20:02
-
-Contribution: 2021-03-05 20:03
-
-Contribution: 2021-03-05 20:04
-
-Contribution: 2021-03-05 20:05
-
-Contribution: 2021-03-05 20:06
-
-Contribution: 2021-03-05 20:07
-
-Contribution: 2021-03-12 20:00
-
-Contribution: 2021-03-12 20:01
-
-Contribution: 2021-03-12 20:02
-
-Contribution: 2021-03-12 20:03
-
-Contribution: 2021-03-12 20:04
-
-Contribution: 2021-03-12 20:05
-
-Contribution: 2021-03-25 20:00
-
-Contribution: 2021-03-25 20:01
-
-Contribution: 2021-03-25 20:02
-
-Contribution: 2021-03-25 20:03
-
-Contribution: 2021-03-25 20:04
-
-Contribution: 2021-03-25 20:05
-
-Contribution: 2021-03-28 20:00
-
-Contribution: 2021-03-28 20:01
-
-Contribution: 2021-04-07 20:00
-
-Contribution: 2021-04-07 20:01
-
-Contribution: 2021-04-08 20:00
-
-Contribution: 2021-04-08 20:01
-
-Contribution: 2021-04-08 20:02
-
-Contribution: 2021-04-08 20:03
-
-Contribution: 2021-04-08 20:04
-
-Contribution: 2021-04-08 20:05
-
-Contribution: 2021-04-26 20:00
-
-Contribution: 2021-04-26 20:01
-
-Contribution: 2021-04-26 20:02
-
-Contribution: 2021-04-26 20:03
-
-Contribution: 2021-04-26 20:04
-
-Contribution: 2021-04-26 20:05
-
-Contribution: 2021-04-26 20:06
-
-Contribution: 2021-05-02 20:00
-
-Contribution: 2021-05-02 20:01
-
-Contribution: 2021-05-02 20:02
-
-Contribution: 2021-05-02 20:03
-
-Contribution: 2021-05-02 20:04
-
-Contribution: 2021-05-02 20:05
-
-Contribution: 2021-05-02 20:06
-
-Contribution: 2021-05-02 20:07
-
-Contribution: 2021-05-02 20:08
-
-Contribution: 2021-05-06 20:00
-
-Contribution: 2021-05-06 20:01
-
-Contribution: 2021-05-06 20:02
-
-Contribution: 2021-05-06 20:03
-
-Contribution: 2021-05-06 20:04
-
-Contribution: 2021-05-06 20:05
-
-Contribution: 2021-05-06 20:06
-
-Contribution: 2021-05-06 20:07
-
-Contribution: 2021-05-06 20:08
-
-Contribution: 2021-05-06 20:09
-
-Contribution: 2021-05-10 20:00
-
-Contribution: 2021-05-10 20:01
-
-Contribution: 2021-05-10 20:02
-
-Contribution: 2021-05-10 20:03
-
-Contribution: 2021-05-15 20:00
-
-Contribution: 2021-05-15 20:01
-
-Contribution: 2021-05-15 20:02
-
-Contribution: 2021-05-15 20:03
-
-Contribution: 2021-05-15 20:04
-
-Contribution: 2021-05-17 20:00
-
-Contribution: 2021-05-17 20:01
-
-Contribution: 2021-05-19 20:00
-
-Contribution: 2021-05-19 20:01
-
-Contribution: 2021-05-19 20:02
-
-Contribution: 2021-05-19 20:03
-
-Contribution: 2021-05-19 20:04
-
-Contribution: 2021-05-19 20:05
-
-Contribution: 2021-05-19 20:06
-
-Contribution: 2021-05-19 20:07
-
-Contribution: 2021-06-01 20:00
-
-Contribution: 2021-06-01 20:01
-
-Contribution: 2021-06-01 20:02
-
-Contribution: 2021-06-01 20:03
-
-Contribution: 2021-06-01 20:04
-
-Contribution: 2021-06-01 20:05
-
-Contribution: 2021-06-01 20:06
-
-Contribution: 2021-06-01 20:07
-
-Contribution: 2021-06-01 20:08
-
-Contribution: 2021-06-05 20:00
-
-Contribution: 2021-06-05 20:01
-
-Contribution: 2021-06-05 20:02
-
-Contribution: 2021-06-05 20:03
-
-Contribution: 2021-06-05 20:04
-
-Contribution: 2021-06-05 20:05
-
-Contribution: 2021-06-12 20:00
-
-Contribution: 2021-06-12 20:01
-
-Contribution: 2021-06-12 20:02
-
-Contribution: 2021-06-12 20:03
-
-Contribution: 2021-06-12 20:04
-
-Contribution: 2021-06-12 20:05
-
-Contribution: 2021-06-12 20:06
-
-Contribution: 2021-06-12 20:07
-
-Contribution: 2021-06-12 20:08
-
-Contribution: 2021-06-12 20:09
-
-Contribution: 2021-06-16 20:00
-
-Contribution: 2021-06-16 20:01
-
-Contribution: 2021-06-16 20:02
-
-Contribution: 2021-06-16 20:03
-
-Contribution: 2021-06-16 20:04
-
-Contribution: 2021-06-26 20:00
-
-Contribution: 2021-06-26 20:01
-
-Contribution: 2021-06-26 20:02
-
-Contribution: 2021-07-01 20:00
-
-Contribution: 2021-07-01 20:01
-
-Contribution: 2021-07-03 20:00
-
-Contribution: 2021-07-03 20:01
-
-Contribution: 2021-07-03 20:02
-
-Contribution: 2021-07-03 20:03
-
-Contribution: 2021-07-03 20:04
-
-Contribution: 2021-07-03 20:05
-
-Contribution: 2021-07-03 20:06
-
-Contribution: 2021-07-03 20:07
-
-Contribution: 2021-07-03 20:08
-
-Contribution: 2021-07-03 20:09
-
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
